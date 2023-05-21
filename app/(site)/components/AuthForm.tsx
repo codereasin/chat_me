@@ -41,7 +41,11 @@ const AuthForm = () => {
     }
 
     return (
-        <h4>Hello Auth Form</h4>
+        <div className="mt-8 sm:mx-auto sm:w-full sm:max-w-md mx-3">
+            <div className="bg-white px-4 py-8 rounded-lg shadow sm:px-10">
+
+            </div>
+        </div>
     )
 
 }
