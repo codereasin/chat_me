@@ -13,9 +13,9 @@ const Home = () => {
           className="mx-auto w-auto"
         />
         <h4 className="mt-6 text-center text-3xl font-bold tracking-tight text-gray-900">
-          Sign in to your account
+          Sign in to your account !
         </h4>
-        <AuthForm/>
+        <AuthForm />
       </div>
     </div>
   )
